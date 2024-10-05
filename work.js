@@ -183,3 +183,5 @@ You have an array of 10 objects, each representing monthly expenses with keys re
   }
   console.log(newArrr);
 
+
+
